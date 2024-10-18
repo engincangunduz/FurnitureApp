@@ -10,15 +10,13 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundStyle(.tint)
-            Text("Hello, world!")
+            HomeScreen(numberOfProduct: 1)
         }
-        .padding()
     }
 }
 
 #Preview {
     ContentView()
+        .environmentObject(ModelData())
 }
+

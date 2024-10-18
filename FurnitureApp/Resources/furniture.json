@@ -1,0 +1,326 @@
+[
+    {
+        "name": "Luxury Swedian Armchair",
+        "category": "Armchair",
+        "price": 1299,
+        "imageName": "armchair_1",
+        "id": 1001,
+        "numStar": 4,
+        "dimensions": {
+            "height": 120,
+            "width": 80
+        },
+        "colors": {
+            "color1": "Color2",
+            "color2": "Color3",
+            "color3": "Primary"
+        },
+        "description": "A luxurious Swedian armchair with a sleek design and comfortable seating. Rated 4 stars."
+    },
+    {
+        "name": "Luxury Swedian Armchair",
+        "category": "Armchair",
+        "price": 1399,
+        "imageName": "armchair_2",
+        "id": 1002,
+        "numStar": 3,
+        "dimensions": {
+            "height": 120,
+            "width": 80
+        },
+        "colors": {
+            "color1": "Color2",
+            "color2": "Color9",
+            "color3": "Primary"
+        },
+        "description": "Stylish and comfortable Swedian armchair with a 3-star rating for its design and functionality."
+    },
+    {
+        "name": "Luxury Swedian Armchair",
+        "category": "Armchair",
+        "price": 1599,
+        "imageName": "armchair_3",
+        "id": 1003,
+        "numStar": 5,
+        "dimensions": {
+            "height": 120,
+            "width": 80
+        },
+        "colors": {
+            "color1": "Color2",
+            "color2": "Color3",
+            "color3": "Primary"
+        },
+        "description": "High-end Swedian armchair known for its luxury, priced at  1599 and boasting a perfect 5-star rating."
+    },
+    {
+        "name": "Luxury Swedian Armchair",
+        "category": "Armchair",
+        "price": 1099,
+        "imageName": "armchair_4",
+        "id": 1004,
+        "numStar": 2,
+        "dimensions": {
+            "height": 120,
+            "width": 80
+        },
+        "colors": {
+            "color1": "Color2",
+            "color2": "Color4",
+            "color3": "Primary"
+        },
+        "description": " An affordable Swedian armchair priced at  1099, though it has a 2-star rating for some limitations."
+    },
+    {
+        "name": "Luxury Swedian Armchair",
+        "category": "Armchair",
+        "price": 999,
+        "imageName": "armchair_5",
+        "id": 1005,
+        "numStar": 3,
+        "dimensions": {
+            "height": 120,
+            "width": 80
+        },
+        "colors": {
+            "color1": "Color2",
+            "color2": "Color5",
+            "color3": "Primary"
+        },
+        "description": "Budget-friendly Swedian armchair with a 3-star rating, offering both style and comfort."
+    },
+    {
+        "name": "Luxury Swedian Armcchair",
+        "category": "Armchair",
+        "price": 1899,
+        "imageName": "armchair_6",
+        "id": 1006,
+        "numStar": 1,
+        "dimensions": {
+            "height": 120,
+            "width": 80
+        },
+        "colors": {
+            "color1": "Color2",
+            "color2": "Color6",
+            "color3": "Primary"
+        },
+        "description": "Despite its high price, this Swedian armchair has a 1-star rating, possibly due to limited features or design concerns."
+    },
+    {
+        "name": "Luxury Swedian Chair",
+        "category": "Chair",
+        "price": 599,
+        "imageName": "chair_1",
+        "id": 1007,
+        "numStar": 4,
+        "dimensions": {
+            "height": 120,
+            "width": 80
+        },
+        "colors": {
+            "color1": "Color2",
+            "color2": "Color10",
+            "color3": "Color11"
+        },
+        "description": "Stylish Swedian chair priced at  50.25, featuring a comfortable design and earning a 4-star rating."
+    },
+    {
+        "name": "Luxury Swedian Chair",
+        "category": "Chair",
+        "price": 499,
+        "imageName": "chair_2",
+        "id": 1008,
+        "numStar": 4,
+        "dimensions": {
+            "height": 120,
+            "width": 80
+        },
+        "colors": {
+            "color1": "Color2",
+            "color2": "Color10",
+            "color3": "Color3"
+        },
+        "description": "Another Swedian chair option with a 4-star rating, offering both affordability and style."
+    },
+    {
+        "name": "Luxury Swedian Chair",
+        "category": "Chair",
+        "price": 349,
+        "imageName": "chair_3",
+        "id": 1009,
+        "numStar": 4,
+        "dimensions": {
+            "height": 120,
+            "width": 80
+        },
+        "colors": {
+            "color1": "Color2",
+            "color2": "Color4",
+            "color3": "Color8"
+        },
+        "description": "Affordable and stylish Swedian chair, earning a 4-star rating for its design and comfort."
+    },
+    {
+        "name": "Luxury Swedian Chair",
+        "category": "Chair",
+        "price": 399,
+        "imageName": "chair_4",
+        "id": 1010,
+        "numStar": 4,
+        "dimensions": {
+            "height": 120,
+            "width": 80
+        },
+        "colors": {
+            "color1": "Color2",
+            "color2": "Color11",
+            "color3": "Color5"
+        },
+        "description": "A budget-friendly Swedian chair with a 4-star rating, providing both comfort and value."
+    },
+    {
+        "name": "Luxury Swedian Chair",
+        "category": "Chair",
+        "price": 449,
+        "imageName": "chair_5",
+        "id": 1011,
+        "numStar": 4,
+        "dimensions": {
+            "height": 120,
+            "width": 80
+        },
+        "colors": {
+            "color1": "Color2",
+            "color2": "Primary",
+            "color3": "Color7"
+        },
+        "description": "Swedian chair with a 4-star rating, combining affordability with a stylish design."
+    },
+    {
+        "name": "Luxury Swedian Chair",
+        "category": "Chair",
+        "price": 299,
+        "imageName": "chair_6",
+        "id": 1012,
+        "numStar": 4,
+        "dimensions": {
+            "height": 120,
+            "width": 80
+        },
+        "colors": {
+            "color1": "Color2",
+            "color2": "Color12",
+            "color3": "Color11"
+        },
+        "description": "Another variant of the Swedian chair, priced at  50.25 and earning a 4-star rating."
+    },
+    {
+        "name": "Luxury Swedian Sofa",
+        "category": "Sofa",
+        "price": 1999,
+        "imageName": "sofa_1",
+        "id": 1013,
+        "numStar": 4,
+        "dimensions": {
+            "height": 120,
+            "width": 80
+        },
+        "colors": {
+            "color1": "Color2",
+            "color2": "Color7",
+            "color3": "Color12"
+        },
+        "description": "Stylish Swedian sofa priced at  50.25, providing comfort and elegance with a 4-star rating."
+    },
+    {
+        "name": "Luxury Germany Sofa",
+        "category": "Sofa",
+        "price": 2199,
+        "imageName": "sofa_2",
+        "id": 1014,
+        "numStar": 4,
+        "dimensions": {
+            "height": 120,
+            "width": 80
+        },
+        "colors": {
+            "color1": "Color2",
+            "color2": "Color5",
+            "color3": "Color3"
+        },
+        "description": "A luxury sofa with German design influences, priced at  50.25 and boasting a 4-star rating."
+    },
+    {
+        "name": "Luxury American Sofa",
+        "category": "Sofa",
+        "price": 2099,
+        "imageName": "sofa_3",
+        "id": 1015,
+        "numStar": 4,
+        "dimensions": {
+            "height": 120,
+            "width": 80
+        },
+        "colors": {
+            "color1": "Color2",
+            "color2": "Color13",
+            "color3": "Color7"
+        },
+        "description": "An American-inspired luxury sofa priced at  50.25, offering both style and comfort with a 4-star rating."
+    },
+    {
+        "name": "Luxury American Sofa",
+        "category": "Sofa",
+        "price": 2249,
+        "imageName": "sofa_4",
+        "id": 1016,
+        "numStar": 4,
+        "dimensions": {
+            "height": 120,
+            "width": 80
+        },
+        "colors": {
+            "color1": "Color2",
+            "color2": "Color3",
+            "color3": "Color10"
+        },
+        "description": "Another variant of the American-inspired luxury sofa, priced at  50.25 and earning a 4-star rating."
+    },
+    {
+        "name": "Luxury American Sofa",
+        "category": "Sofa",
+        "price": 2399,
+        "imageName": "sofa_5",
+        "id": 1017,
+        "numStar": 4,
+        "dimensions": {
+            "height": 120,
+            "width": 80
+        },
+        "colors": {
+            "color1": "Color2",
+            "color2": "Color7",
+            "color3": "Color11"
+        },
+        "description": "Stylish American sofa priced at  50.25, providing both comfort and design with a 4-star rating."
+    },
+    {
+        "name": "Luxury American Sofa",
+        "category": "Sofa",
+        "price": 2199,
+        "imageName": "sofa_6",
+        "id": 1018,
+        "numStar": 4,
+        "dimensions": {
+            "height": 120,
+            "width": 80
+        },
+        "colors": {
+            "color1": "Color2",
+            "color2": "Color14",
+            "color3": "Color4"
+        },
+        "description": "Another option for an American-inspired luxury sofa, priced at  50.25 and earning a 4-star rating."
+    },
+]
