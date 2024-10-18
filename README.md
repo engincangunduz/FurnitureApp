@@ -10,8 +10,3 @@ A furniture shopping application built using MVVM architecture. Not all function
 - Static product information will be made dynamic with API.
 
 Apart from these, there will be a few more updates that will be added as original.
-
-## Screenshots
-
-**Home Page**
-
